@@ -29,7 +29,7 @@ I am a Software Developer with over **3+ years of experience** building and depl
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring boot,microservices,nodejs,react,mysql,postgres,aws,hibernate,js,git,github,postman,vite,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,microservices,nodejs,react,mysql,postgres,aws,hibernate,js,git,github,postman,vite,bootstrap,tailwind" />
   </a>
 </p>
 
