@@ -58,6 +58,6 @@ I am a Software Developer with over **3+ years of experience** building and depl
 ---
 
 ### 📄 Contact & Quick Links
-* **Resume:** [📄 View My Professional Resume](./SanjeedaResumeJan-2026%20(1).pdf)
+* **Resume:** [📄 View My Professional Resume](./Sanjeeda_Resume_Feb26.pdf)
 * **Email:** [sanjeedak.cse@gmail.com](mailto:sanjeedak.cse@gmail.com)
 * **Location:** Hyderabad, India
