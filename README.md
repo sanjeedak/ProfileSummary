@@ -13,7 +13,7 @@ I am a Software Developer with over **3+ years of experience** building and depl
     * Independently designed and implemented the complete **User Panel** using Node.js, React.js (Vite), and MySQL.
     * Managed application deployment and server configuration on **AWS EC2**.
 
-* **Support Engineer | Axis Bank / Montran Corporation (PNV)** (01/2023 – 11/2023)
+* **Software Engineer | Axis Bank / Montran Corporation (PNV)** (01/2023 – 11/2023)
     * Developed and maintained **NEFT & RTGS payment modules** using Java, Spring Boot, and Microservices.
     * Integrated **SFTP & IBM MQ** for secure, real-time transaction processing.
     * Applied **Design Patterns** (Singleton, Factory, Strategy, Observer) for scalable services.
